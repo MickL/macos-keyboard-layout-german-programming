@@ -1,4 +1,4 @@
-# German programming keyboard layout for macOS
+# German keyboard layout for programming on macOS
 
 This keyboard layout will make your programming life **much** easier while keeping as many habits of German keyboard as possible! 
 
