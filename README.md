@@ -1,28 +1,38 @@
 # German keyboard layout for programming on macOS
 
-This keyboard layout will make your programming life **much** easier while keeping as many habits of German keyboard as possible! 
+This keyboard layout will make your programming life **much** easier while keeping as many habits of german-keyboard-usage as possible!
 
-- Replaces `äöüÄÖÜ` with `asdsad`
+- Replaces `äöüÄÖÜ` with `[]{}|~`
 - No more dead keys `` ^´` ``
-- Access `äöüÄÖÜ` by pressing `option (alt)`
+- Access `äöüÄÖÜ` by pressing `option / alt`
 
-(TODO: image dropdown)
+**Screenshot:**
+
+![screenshot dropdown](screenshots/dropdown.jpg)
 
 **Keyboard layout:**
-(TODO: image keyboard layout)
+
+![screenshot dropdown](screenshots/layout.jpg)
 
 **Keyboard layout (shift):**
-(TODO: image keyboard layout shift)
 
-**Keyboard layout (alt):**
-(TODO: image keyboard layout alt)
+![screenshot dropdown](screenshots/layout-shift.jpg)
 
-**Keyboard layout (alt+shift):**
-(TODO: image keyboard layout alt shift)
+**Keyboard layout (option):**
+
+![screenshot dropdown](screenshots/layout-option.jpg)
+
+**Keyboard layout (option + shift):**
+
+![screenshot dropdown](screenshots/layout-option-shift.jpg)
+
 
 ### Installation
-1. Download and open (Deutsch - Programming.dmg)[TODO: Link]
+1. Download and open [Deutsch - Programming.dmg](keyboard-layout-german-programming.dmg)
 2. Drag bundle file
 3. Open macOS Systemeinstellungen -> Eingabequellen -> click `+` -> Deutsch -> click `Deutsch - Programmierung` -> click `Hinzufügen`
-4. Check `Eingabequellen in der Menüleiste anzeigen`
+4. Activate checkbox `Eingabequellen in der Menüleiste anzeigen`
 5. Swap keyboard layout in macOS toolbar
+
+### Other
+Made with [Ukelele](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele). Feel free to contribute / create pull requests!
