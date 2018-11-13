@@ -32,7 +32,7 @@ This keyboard layout will make your programming life **much** easier while keepi
 2. Drag bundle file
 3. Open macOS Systemeinstellungen -> Eingabequellen -> click `+` -> Deutsch -> click `Deutsch - Programmierung` -> click `Hinzufügen`
 4. Activate checkbox `Eingabequellen in der Menüleiste anzeigen`
-5. You probably want to disable swapping the Eingabequelle when pressing Cmd + Space(which is a common shortcurt on most IDE): Go to `Kurzbefehle` -> `Eingabequellen` -> Disable checkbox `Die vorherige Eingabequelle auswählen`
+5. Note: You probably want to disable swapping the Eingabequelle when pressing Cmd + Space(which is a common shortcurt on most IDE): Go to `Kurzbefehle` -> `Eingabequellen` -> Disable checkbox `Die vorherige Eingabequelle auswählen`
 6. You can now swap the keyboard layout in macOS toolbar
 
 ### Other
