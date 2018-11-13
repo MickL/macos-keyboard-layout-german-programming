@@ -28,7 +28,7 @@ This keyboard layout will make your programming life **much** easier while keepi
 
 
 ### Installation
-1. Download and open [Deutsch - Programming.dmg](raw/master/keyboard-layout-german-programming.dmg)
+1. Download and open [Deutsch - Programming.dmg](https://github.com/MickL/macos-keyboard-layout-german-programming/raw/master/keyboard-layout-german-programming.dmg)
 2. Drag bundle file
 3. Open macOS Systemeinstellungen -> Eingabequellen -> click `+` -> Deutsch -> click `Deutsch - Programmierung` -> click `Hinzufügen`
 4. Activate checkbox `Eingabequellen in der Menüleiste anzeigen`
