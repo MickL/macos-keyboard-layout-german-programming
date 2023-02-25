@@ -29,10 +29,10 @@ This keyboard layout will make your programming life **much** easier while keepi
 
 ### Installation
 1. Download and open [Deutsch - Programming.dmg](https://github.com/MickL/macos-keyboard-layout-german-programming/raw/master/keyboard-layout-german-programming.dmg)
-2. Drag bundle file
-3. Open macOS Systemeinstellungen -> Tastur -> Eingabequellen -> click `+` -> click `Deutsch - Programmierung` -> click `Hinzufügen`
-4. Activate checkbox `Eingabequellen in der Menüleiste anzeigen` 
-5. Note: You probably want to disable swapping the Eingabequelle when pressing Cmd + Space(which is a common shortcurt on most IDEs): Go to `Kurzbefehle` -> `Eingabequellen` -> Disable checkbox `Die vorherige Eingabequelle auswählen`
+2. Install of current user
+3. Open macOS Systemeinstellungen -> Tastatur -> Eingabequellen -> Bearbeiten -> click `+` -> click `Deutsch - Programmierung` -> click `Hinzufügen`
+4. Optional: Activate checkbox `Eingabequellen in der Menüleiste anzeigen` to see the current active keyborad layout and be able to switch them (you can also switch quickly by pressing ctrl + option + space)
+5. Note: You probably want to disable swapping the Eingabequelle when pressing Ctrl + Space (which is a common shortcurt on most IDEs): Go to macOS Systemeinstellungen -> Tastatur -> Tastaturkurzbefehle -> Eingabequellen -> Disable checkbox `Die vorherige Eingabequelle auswählen`
 
 You can now swap the keyboard layout in macOS toolbar (top right corner)
 

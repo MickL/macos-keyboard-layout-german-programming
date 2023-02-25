@@ -7,9 +7,13 @@
 	<key>CFBundleName</key>
 	<string>Deutsch - Programming</string>
 	<key>CFBundleVersion</key>
-	<string>1.0</string>
+	<string>1.1</string>
 	<key>KLInfo_Deutsch - Programming</key>
 	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISIconIsTemplate</key>
+		<false/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.deutsch-programming.deutsch-programming</string>
 		<key>TISIntendedLanguage</key>
